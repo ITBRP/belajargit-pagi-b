@@ -1,1 +1,4 @@
 - git pull origin master
+- git pull origin nama-branch (tarik semua update dari branch)
+- git fetch --all (tarik semua branch dari remote)
+- git branch -a (tampilkan semua branch local dan remote)
